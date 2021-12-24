@@ -7,3 +7,4 @@ Express API that connects to Airtable database
 1. `npm i express`
 1. `npm i cors`
 1. `npm i dotenv`
+1. `npm i airtable`
